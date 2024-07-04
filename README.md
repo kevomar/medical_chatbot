@@ -1,3 +1,19 @@
+## Prerequisites
+
+Before you can start using the Llama2 Medical Bot, make sure you have the following prerequisites installed on your system:
+
+- Python 3.9 or higher
+- Required Python packages (you can install them using pip):
+        - langchain~=0.2.6
+        - pypdf
+        - torch
+        - accelerate
+        - bitsandbytes
+        - Transformers specifically CTransformers
+        - sentence_transformers
+        - faiss_cpu
+        - chainlit~=1.1.306
+
 ## Installation
 
 1. Clone this repository to your local machine.
