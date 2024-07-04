@@ -4,15 +4,15 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 - Python 3.9 or higher
 - Required Python packages (you can install them using pip):
-        - langchain~=0.2.6
-        - pypdf
-        - torch
-        - accelerate
-        - bitsandbytes
-        - Transformers specifically CTransformers
-        - sentence_transformers
-        - faiss_cpu
         - chainlit~=1.1.306
+        - faiss_cpu
+        - sentence_transformers
+        - Transformers specifically CTransformers
+        - bitsandbytes
+        - accelerate
+        - torch
+        - pypdf
+        - langchain~=0.2.6      
 
 ## Installation
 
